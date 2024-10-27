@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Sudipta Saha!
 
-I’m a Software Quality Assurance Engineer and Front-End Developer based in Bangladesh. I’m passionate about ensuring software excellence and creating smooth, user-friendly interfaces.
+I’m a Software Quality Assurance Engineer based in Bangladesh. I’m passionate about ensuring software excellence and creating smooth, user-friendly interfaces.
 
 ---
 

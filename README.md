@@ -11,7 +11,7 @@ I’m a Software Quality Assurance Engineer and Front-End Developer based in Ban
 - 🎨 Combining QA skills with Front-End Development for a seamless user experience.
 - 📚 Check out all my projects on **[GitHub](https://github.com/Sudipta-Saha123)**.
 - 💬 Ask me about anything related to **Software Testing** or **Front-End Development**.
-- 📫 Reach me at **[E-maial](sudiptasaha986@gmail.com)**.
+- 📫 Reach me at **[E-mail](sudiptasaha986@gmail.com)**.
 
 ### Connect with me:
 
@@ -43,13 +43,11 @@ I’m a Software Quality Assurance Engineer and Front-End Developer based in Ban
 
 ---
 
-### 🚀 Top Contributed Repos
+### 🚀 Top Contributed Repo
 
-- [![Repository](https://github-readme-stats.vercel.app/api/pin/?username=Sudipta-Saha123&repo=Test-Case-Project-Othoba&theme=default)](https://github.com/YourUsername/Manual-Test-Case-Project)
-- [![Repository](https://github-readme-stats.vercel.app/api/pin/?username=Sudipta-Saha123&repo=Database-Testing-Project&theme=default)](https://github.com/YourUsername/Database-Testing-Project)
-- [![Repository](https://github-readme-stats.vercel.app/api/pin/?username=Sudipta-Saha123&repo=Software-Quality-Testing-Project&theme=default)](https://github.com/YourUsername/GoodBank_REST-API-Testing_Automation)
+[![Your Name's GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Sudipta-Saha123&limit=5&theme=radical&combine_all_yearly_contributions=true)](https://github.com/YourUsername)
 
----
+
 
 ### 🔝 Most Used Languages
 
